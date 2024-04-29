@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "username": "miqman",
+    "email": "miqman@mail.com",
+    "password": "123456",
+    "role": "admin",
+    "phoneNumber": "08978675",
+    "address": "depok"
+  },
+  {
+    "id": 2,
+    "username": "miqman2",
+    "email": "miqman2@mail.com",
+    "password": "123456",
+    "role": "user",
+    "phoneNumber": "08978665",
+    "address": "bekasi"
+  }
+]

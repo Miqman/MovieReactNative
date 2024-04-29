@@ -1,0 +1,171 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "miqman",
+      "email": "miqman@mail.com",
+      "password": "123456",
+      "role": "admin",
+      "phoneNumber": "08978675",
+      "address": "depok",
+      "createdAt": "2022-04-25 12:29:05.311 +0700",
+      "updatedAt": "2022-04-25 12:29:05.311 +0700"
+    },
+    {
+      "id": 2,
+      "username": "miqman2",
+      "email": "miqman2@mail.com",
+      "password": "123456",
+      "role": "user",
+      "phoneNumber": "08978665",
+      "address": "bekasi",
+      "createdAt": "2022-04-25 12:29:05.311 +0700",
+      "updatedAt": "2022-04-25 12:29:05.311 +0700"
+    },
+    {
+      "username": "a",
+      "password": "123456",
+      "email": "a@mail.com",
+      "role": "admin",
+      "phoneNumber": "089776",
+      "address": "depok",
+      "id": 3
+    },
+    {
+      "username": "ab",
+      "password": "123456",
+      "email": "b@mail.com",
+      "phoneNumber": "0898786",
+      "address": "depok",
+      "createdAt": "2022-04-25 12:29:05.311 +0700",
+      "updatedAt": "2022-04-25 12:29:05.311 +0700",
+      "id": 4
+    },
+    {
+      "username": "rin",
+      "password": "123456",
+      "email": "rin@mail.com",
+      "role": "admin",
+      "phoneNumber": "08978675",
+      "address": "depok",
+      "createdAt": "2022-04-25 12:29:05.311 +0700",
+      "updatedAt": "2022-04-25 12:29:05.311 +0700",
+      "id": 5
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "title": "Wedding Agreement",
+      "slug": "-",
+      "synopsis": "In love with his girlfriend Sarah, Bian marries Tari to appease his parents, serving her with an agreement that they will divorce after one year",
+      "trailerUrl": "https://www.youtube.com/watch?v=f46vjiZ9sKs",
+      "imgUrl": "https://dummyimage.com/600x400/000/fff",
+      "rating": "9.4",
+      "genreId": 1,
+      "authorId": 1,
+      "createdAt": "2022-04-25 12:29:05.311 +0700",
+      "updatedAt": "2022-04-25 12:29:05.311 +0700"
+    },
+    {
+      "id": 2,
+      "title": "Jujutsu Kaisen 0",
+      "slug": "-",
+      "synopsis": "In love with his girlfriend Sarah, Bian marries Tari to appease his parents, serving her with an agreement that they will divorce after one year",
+      "trailerUrl": "https://www.youtube.com/watch?v=f46vjiZ9sKs",
+      "imgUrl": "https://dummyimage.com/600x400/000456/fff",
+      "rating": "9.4",
+      "genreId": 1,
+      "authorId": 1,
+      "createdAt": "2022-04-25 12:29:05.311 +0700",
+      "updatedAt": "2022-04-25 12:29:05.311 +0700"
+    },
+    {
+      "title": "Lufy vs Nami",
+      "synopsis": "In love with his girlfriend Sarah, Bian marries Tari to appease his parents, serving her with an agreement that they will divorce after one year",
+      "imgUrl": "https://dummyimage.com/600x400/456/fff",
+      "rating": "10",
+      "authorId": 1,
+      "slug": "-",
+      "trailerUrl": "https://www.youtube.com/watch?v=f46vjiZ9sKs",
+      "genreId": 1,
+      "createdAt": "2022-04-25 12:29:05.311 +0700",
+      "updatedAt": "2022-04-25 12:29:05.311 +0700",
+      "id": 3
+    },
+    {
+      "title": "Spy x Family ",
+      "synopsis": "bapak mata-mata, emak pembunuh bayaran dan anak esper",
+      "imgUrl": "asdasdsa",
+      "rating": "90",
+      "authorId": "1",
+      "slug": "-",
+      "trailerUrl": "https://www.youtube.com/watch?v=f46vjiZ9sKs",
+      "genreId": 1,
+      "createdAt": "2022-04-25 12:29:05.311 +0700",
+      "updatedAt": "2022-04-25 12:29:05.311 +0700",
+      "id": 4
+    },
+    {
+      "title": "Spy x Family ",
+      "synopsis": "bapak mata-mata, emak pembunuh bayaran dan anak esper",
+      "imgUrl": "asdasdsa",
+      "rating": "90",
+      "authorId": "1",
+      "slug": "-",
+      "trailerUrl": "https://www.youtube.com/watch?v=f46vjiZ9sKs",
+      "genreId": 1,
+      "createdAt": "2022-04-25 12:29:05.311 +0700",
+      "updatedAt": "2022-04-25 12:29:05.311 +0700",
+      "id": 5
+    },
+    {
+      "title": "qqqq",
+      "synopsis": "wwww",
+      "imgUrl": "eeeeee",
+      "rating": "4",
+      "authorId": "1",
+      "slug": "-",
+      "trailerUrl": "https://www.youtube.com/watch?v=f46vjiZ9sKs",
+      "genreId": 1,
+      "createdAt": "2022-04-25 12:29:05.311 +0700",
+      "updatedAt": "2022-04-25 12:29:05.311 +0700",
+      "id": 6
+    },
+    {
+      "title": "wwwww",
+      "synopsis": "xxxxx",
+      "imgUrl": "yyyyyy",
+      "rating": "9",
+      "authorId": "1",
+      "slug": "-",
+      "trailerUrl": "https://www.youtube.com/watch?v=f46vjiZ9sKs",
+      "genreId": 1,
+      "createdAt": "2022-04-28T09:28:56.940Z",
+      "updatedAt": "2022-04-28T09:28:56.940Z",
+      "id": 7
+    },
+    {
+      "title": "aaaaaa",
+      "synopsis": "vvvvv",
+      "imgUrl": "bbbbb",
+      "rating": "5",
+      "authorId": "1",
+      "slug": "-",
+      "trailerUrl": "https://www.youtube.com/watch?v=f46vjiZ9sKs",
+      "genreId": 1,
+      "createdAt": "2022-04-25 12:29:05.311 +0700",
+      "updatedAt": "2022-04-25 12:29:05.311 +0700",
+      "id": 8
+    }
+  ],
+  "genre": [
+    {
+      "id": 1,
+      "name": "drama, romance",
+      "createdAt": "2022-04-25 12:29:05.311 +0700",
+      "updatedAt": "2022-04-25 12:29:05.311 +0700"
+    }
+  ],
+  "casts": []
+}

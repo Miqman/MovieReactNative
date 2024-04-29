@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "username": "miqman",
+    "email": "miqman@mail.com",
+    "password": "$2b$08$fXAUEdGAR4dKLEQiljRH.OEWB3K70zH04wenSUmW5nKtAo7G4EZyu",
+    "role": "Admin",
+    "phoneNumber": "08978666",
+    "address": "depok",
+    "createdAt": "2022-04-28T04:34:51.336Z",
+    "updatedAt": "2022-04-28T04:34:51.336Z"
+  },
+  {
+    "id": 2,
+    "username": "miku",
+    "email": "miku@mail.com",
+    "password": "$2b$08$Aw1DTRn4x8LNGHyd7WIhjOg27N2azhXu6BMxDl/vkMFxMywQlOHrC",
+    "role": "Admin",
+    "phoneNumber": "08978999",
+    "address": "bekasi",
+    "createdAt": "2022-04-28T04:35:39.858Z",
+    "updatedAt": "2022-04-28T04:35:39.858Z"
+  },
+  {
+    "id": 3,
+    "username": "moris",
+    "email": "moris@mail.com",
+    "password": "$2b$08$JfcyCe7yH3OdiF.7.1458u0m11gxH74Bcr4xwUpVrjTUTjAl3nvhe",
+    "role": "Admin",
+    "phoneNumber": "087646746",
+    "address": "depok",
+    "createdAt": "2022-04-28T10:02:06.898Z",
+    "updatedAt": "2022-04-28T10:02:06.898Z"
+  },
+  {
+    "id": 4,
+    "username": "mikuman",
+    "email": "mikuman@mail.com",
+    "password": "$2b$08$/TgWwToBX1Hu.wDTqKBvQet6a3tMdceHbSFc5CMVL.sIqp.1UbocO",
+    "role": "Admin",
+    "phoneNumber": "0898786867",
+    "address": "depok",
+    "createdAt": "2022-05-03T14:39:50.070Z",
+    "updatedAt": "2022-05-03T14:39:50.070Z"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Wedding Agreement",
+    "slug": "Wedding-Agreement",
+    "synopsis": "In love with his girlfriend Sarah, Bian marries Tari to appease his parents, serving her with an agreement that they will divorce after one year",
+    "trailerUrl": "https://www.youtube.com/embed/f46vjiZ9sKs",
+    "imgUrl": "https://thumbor.prod.vid.id/iMT1KssusG_MXKEehmXs_D4HM-k=/1280x720/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/2849/wedding-agreement-d07042.jpg",
+    "rating": 8,
+    "genreId": 4,
+    "authorId": 1,
+    "UserMongoId": "628263ab9583c9d40f4db0f7"
+  },
+  {
+    "title": "Sonic the Hedgehog",
+    "slug": "Sonic-the-Hedgehog",
+    "synopsis": "The world needed a hero - it got a hedgehog. Powered with incredible speed, Sonic embraces his new home on Earth - until he accidentally knocks out the power grid, sparking the attention of uncool evil genius Dr. Robotnik.",
+    "trailerUrl": "https://www.youtube.com/embed/szby7ZHLnkA",
+    "imgUrl": "https://api.duniagames.co.id/api/content/upload/file/17631722941639046281.jpg",
+    "rating": 8,
+    "genreId": 1,
+    "authorId": 1,
+    "UserMongoId": "628263ab9583c9d40f4db0f7"
+  },
+  {
+    "title": "Jujutsu Kaisen 0",
+    "slug": "Jujutsu-Kaisen-0",
+    "synopsis": "Yuta Okkotsu gains control of an extremely powerful, cursed spirit and gets enrolled in the Tokyo Prefectural Jujutsu High School by sorcerers to help him control his power and keep an eye on him.",
+    "trailerUrl": "https://www.youtube.com/embed/-iun6KPT4SM",
+    "imgUrl": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/03/20/4225530330.jpg",
+    "rating": 9,
+    "genreId": 2,
+    "authorId": 2,
+    "UserMongoId": "628263ab9583c9d40f4db0f7"
+  },
+  {
+    "title": "Fantastic Beasts: The Secrets of Dumbledore",
+    "slug": "Fantastic-Beasts:-The-Secrets-of-Dumbledore",
+    "synopsis": "Professor Albus Dumbledore knows the powerful, dark wizard Gellert Grindelwald is moving to seize control of the wizarding world. Unable to stop him alone, he entrusts magizoologist Newt Scamander to lead an intrepid team of wizards and witches.",
+    "trailerUrl": "https://www.youtube.com/embed/-iun6KPT4SM",
+    "imgUrl": "https://cdn.flickeringmyth.com/wp-content/uploads/2022/03/Fantastic-Beasts-Secrets-of-Dumbledore-poster-header.jpg",
+    "rating": 9,
+    "genreId": 2,
+    "authorId": 2,
+    "UserMongoId": "628263ab9583c9d40f4db0f7"
+  },
+  {
+    "title": "Wedding Agreement",
+    "slug": "Wedding-Agreement",
+    "synopsis": "In love with his girlfriend Sarah, Bian marries Tari to appease his parents, serving her with an agreement that they will divorce after one year",
+    "trailerUrl": "https://www.youtube.com/embed/f46vjiZ9sKs",
+    "imgUrl": "https://thumbor.prod.vid.id/iMT1KssusG_MXKEehmXs_D4HM-k=/1280x720/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/2849/wedding-agreement-d07042.jpg",
+    "rating": 7,
+    "genreId": 4,
+    "authorId": 2,
+    "UserMongoId": "628263ab9583c9d40f4db0f7"
+  },
+  {
+    "title": "Sonic the Hedgehog",
+    "slug": "Sonic-the-Hedgehog",
+    "synopsis": "The world needed a hero - it got a hedgehog. Powered with incredible speed, Sonic embraces his new home on Earth - until he accidentally knocks out the power grid, sparking the attention of uncool evil genius Dr. Robotnik.",
+    "trailerUrl": "https://www.youtube.com/embed/szby7ZHLnkA",
+    "imgUrl": "https://api.duniagames.co.id/api/content/upload/file/17631722941639046281.jpg",
+    "rating": 6,
+    "genreId": 3,
+    "authorId": 1,
+    "UserMongoId": "628263ab9583c9d40f4db0f7"
+  },
+  {
+    "title": "Jujutsu Kaisen 0",
+    "slug": "Jujutsu-Kaisen-0",
+    "synopsis": "Yuta Okkotsu gains control of an extremely powerful, cursed spirit and gets enrolled in the Tokyo Prefectural Jujutsu High School by sorcerers to help him control his power and keep an eye on him.",
+    "trailerUrl": "https://www.youtube.com/embed/-iun6KPT4SM",
+    "imgUrl": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/03/20/4225530330.jpg",
+    "rating": 7,
+    "genreId": 5,
+    "authorId": 2,
+    "UserMongoId": "628263ab9583c9d40f4db0f7"
+  },
+  {
+    "title": "Fantastic Beasts: The Secrets of Dumbledore",
+    "slug": "Fantastic-Beasts:-The-Secrets-of-Dumbledore",
+    "synopsis": "Professor Albus Dumbledore knows the powerful, dark wizard Gellert Grindelwald is moving to seize control of the wizarding world. Unable to stop him alone, he entrusts magizoologist Newt Scamander to lead an intrepid team of wizards and witches.",
+    "trailerUrl": "https://www.youtube.com/embed/-iun6KPT4SM",
+    "imgUrl": "https://cdn.flickeringmyth.com/wp-content/uploads/2022/03/Fantastic-Beasts-Secrets-of-Dumbledore-poster-header.jpg",
+    "rating": 3,
+    "genreId": 2,
+    "authorId": 1,
+    "UserMongoId": "628263ab9583c9d40f4db0f7"
+  }
+]
